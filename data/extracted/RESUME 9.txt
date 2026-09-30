@@ -1,0 +1,45 @@
+KAVYA REDDY
+Hyderabad, Telangana, India
+Email: kavya.sample@email.com
+Phone: +91-90000-00009
+PROFESSIONAL SUMMARY
+Healthcare Data Analyst with 2 years of experience working with healthcare datasets, data
+validation, reporting and business intelligence dashboards.
+EXPERIENCE
+Healthcare Data Analyst
+MedData Solutions, Hyderabad Jul
+2024 – Present
+- Cleaned healthcare datasets.
+- Performed data validation.
+- Prepared patient-data reports.
+- Created Power BI dashboards.
+- Generated KPI reports.
+- Supported healthcare analytics projects.
+- Worked with SQL queries.
+Data Analyst Intern
+HealthAnalytics Pvt Ltd Jan
+2024 – Jun 2024
+- Cleaned sample healthcare datasets.
+- Created Excel reports.
+- Assisted with dashboard preparation.
+EDUCATION M.Sc — Statistics
+Osmania University 2022
+– 2024
+B.Sc — Mathematics
+Osmania University
+2019 – 2022
+SKILLS
+- SQL
+- Python
+- Excel
+- Power BI
+- Statistics
+- Data Cleaning
+- Data Validation
+- Data Visualization
+- Healthcare Analytics
+CERTIFICATION
+Microsoft Power BI Data Analyst
+PROJECT
+Hospital Performance Dashboard
+Created a dashboard to analyze patient volume, department performance and operational KPIs.

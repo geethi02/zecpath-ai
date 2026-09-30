@@ -1,0 +1,24 @@
+Data Analyst
+
+Job Description:
+
+We are looking for a Data Analyst to analyze business data and generate actionable insights.
+
+Responsibilities:
+- Collect, clean and validate data from multiple sources.
+- Perform data analysis and exploratory analysis.
+- Create dashboards and reports for business stakeholders.
+- Track and analyze key performance indicators (KPIs).
+- Work with SQL databases to retrieve and transform data.
+- Use Excel and Power BI for reporting and visualization.
+- Identify trends, patterns and data quality issues.
+- Communicate analytical findings to stakeholders.
+
+Requirements:
+- Bachelor's or Master's degree in Data Science, Statistics, Mathematics, Computer Science or a related field.
+- Basic to intermediate SQL skills.
+- Knowledge of Python for data analysis.
+- Experience with Power BI and Excel.
+- Understanding of data cleaning and data visualization.
+- Knowledge of statistics and analytical techniques.
+- Good communication and problem-solving skills.

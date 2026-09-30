@@ -1,0 +1,53 @@
+{
+    "name": "ROHAN VERMA",
+    "location": "Pune, Maharashtra, India",
+    "email": "rohan.sample@email.com",
+    "phone": "+91-90000-00010",
+    "summary": "Business Analyst with 4 years of experience in requirements gathering, business process analysis, \nstakeholder management, reporting and UAT coordination.",
+    "education": [
+        "MBA — Business Analytics",
+        "Symbiosis International University",
+        "2019 – 2021",
+        "B.Com — Commerce",
+        "University of Pune",
+        "2016 – 2019 SKILLS",
+        "Requirements Gathering",
+        "Business Analysis",
+        "SQL",
+        "Excel",
+        "Power BI",
+        "Stakeholder Management",
+        "Process Mapping",
+        "UAT",
+        "BRD",
+        "FRD",
+        "Data Analysis"
+    ],
+    "experience": [
+        "Business Analyst",
+        "Enterprise Solutions Pvt Ltd, Pune Jun",
+        "2022 – Present",
+        "Gathered business requirements.",
+        "Conducted stakeholder meetings.",
+        "Created BRDs and FRDs.",
+        "Analyzed business processes.",
+        "Prepared dashboards and reports.",
+        "Worked with development teams.",
+        "Coordinated User Acceptance Testing.",
+        "Junior Business Analyst",
+        "BusinessTech Solutions",
+        "Jul 2021 – May 2022",
+        "Prepared business reports.",
+        "Documented requirements.",
+        "Conducted data analysis.",
+        "Assisted stakeholder meetings."
+    ],
+    "skills": [],
+    "projects": [],
+    "certifications": [
+        "ECBA — Entry Certificate in Business Analysis",
+        "PROJECT Customer Service Process Improvement",
+        "Analyzed customer support processes and documented improvement opportunities using process",
+        "mapping and KPI analysis."
+    ]
+}

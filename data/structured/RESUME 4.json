@@ -1,0 +1,45 @@
+{
+    "name": "RAHUL MENON",
+    "location": "Chennai, Tamil Nadu, India",
+    "email": "rahul.sample@email.com",
+    "phone": "+91-90000-00004",
+    "summary": "Sales professional with 5 years of experience in B2B sales, lead generation, account management and \nclient relationship management.",
+    "education": [],
+    "experience": [
+        "Senior Sales Executive",
+        "ABC Technologies, Chennai Jan",
+        "2023 – Present",
+        "Managed enterprise client accounts.",
+        "Generated qualified sales leads.",
+        "Conducted product demonstrations.",
+        "Negotiated contracts.",
+        "Maintained CRM records.",
+        "Managed customer relationships.",
+        "Prepared sales reports.",
+        "Sales Executive",
+        "XYZ Solutions, Chennai Jun",
+        "2021 – Dec 2022 •",
+        "Performed cold calling.",
+        "Generated leads.",
+        "Followed up with prospects.",
+        "Conducted product presentations.",
+        "Maintained customer records.",
+        "EDUCATION BBA — Business Administration",
+        "University of Madras 2018",
+        "– 2021"
+    ],
+    "skills": [
+        "B2B Sales",
+        "Lead Generation",
+        "Negotiation • CRM",
+        "Account Management",
+        "Customer Relationship Management",
+        "Sales Forecasting",
+        "Communication",
+        "Presentation"
+    ],
+    "projects": [],
+    "certifications": [
+        "Salesforce Sales Representative Certification"
+    ]
+}

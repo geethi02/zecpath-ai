@@ -1,0 +1,45 @@
+AARAV SHARMA
+Bengaluru, Karnataka, India
+Email: aarav.sample@email.com
+Phone: +91-90000-00002
+PROFESSIONAL SUMMARY
+Software Engineer with 3 years of experience developing web applications and REST APIs using Java,
+Spring Boot and React.
+EXPERIENCE Software Engineer
+TechNova Solutions, Bengaluru Jun
+2023 – May 2026
+- Developed REST APIs using Java and Spring Boot.
+- Built frontend modules using React.
+- Designed PostgreSQL database tables.
+- Implemented authentication and authorization.
+- Fixed production defects.
+- Participated in Agile sprint planning.
+- Reviewed code using Git pull requests.
+Junior Software Developer
+WebCore Technologies Jul
+2022 – May 2023
+- Developed web application components.
+- Worked with JavaScript and React.
+- Created API integrations.
+- Performed application testing.
+EDUCATION B.Tech — Computer Science Engineering
+Visvesvaraya Technological University
+2018– 2022
+SKILLS
+- Java
+- Spring Boot
+- React
+- JavaScript
+- HTML
+- CSS
+- PostgreSQL
+- REST APIs
+- Git
+- Docker
+- AWS
+CERTIFICATIONS
+- AWS Cloud Practitioner
+- Java Programming Certification PROJECT
+E-Commerce Management Platform
+Technologies: Java, Spring Boot, React, PostgreSQL
+Developed APIs and frontend modules for product, customer and order management.

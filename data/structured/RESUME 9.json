@@ -1,0 +1,50 @@
+{
+    "name": "KAVYA REDDY",
+    "location": "Hyderabad, Telangana, India",
+    "email": "kavya.sample@email.com",
+    "phone": "+91-90000-00009",
+    "summary": "Healthcare Data Analyst with 2 years of experience working with healthcare datasets, data \nvalidation, reporting and business intelligence dashboards.",
+    "education": [],
+    "experience": [
+        "Healthcare Data Analyst",
+        "MedData Solutions, Hyderabad Jul",
+        "2024 – Present",
+        "Cleaned healthcare datasets.",
+        "Performed data validation.",
+        "Prepared patient-data reports.",
+        "Created Power BI dashboards.",
+        "Generated KPI reports.",
+        "Supported healthcare analytics projects.",
+        "Worked with SQL queries.",
+        "Data Analyst Intern",
+        "HealthAnalytics Pvt Ltd Jan",
+        "2024 – Jun 2024",
+        "Cleaned sample healthcare datasets.",
+        "Created Excel reports.",
+        "Assisted with dashboard preparation.",
+        "EDUCATION M.Sc — Statistics",
+        "Osmania University 2022",
+        "– 2024",
+        "B.Sc — Mathematics",
+        "Osmania University",
+        "2019 – 2022"
+    ],
+    "skills": [
+        "SQL",
+        "Python",
+        "Excel",
+        "Power BI",
+        "Statistics",
+        "Data Cleaning",
+        "Data Validation",
+        "Data Visualization",
+        "Healthcare Analytics"
+    ],
+    "projects": [
+        "Hospital Performance Dashboard",
+        "Created a dashboard to analyze patient volume, department performance and operational KPIs."
+    ],
+    "certifications": [
+        "Microsoft Power BI Data Analyst"
+    ]
+}

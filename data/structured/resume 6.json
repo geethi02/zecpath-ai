@@ -1,0 +1,53 @@
+{
+    "name": "ARJUN PATEL",
+    "location": "Mumbai, Maharashtra, India",
+    "email": "arjun.sample@email.com",
+    "phone": "+91-90000-00006",
+    "summary": "Financial Analyst with 6 years of experience in financial reporting, budgeting, forecasting, financial \nmodelling and business analysis.",
+    "education": [
+        "MBA — Finance",
+        "NMIMS 2017",
+        "– 2019",
+        "B.Com — Commerce",
+        "University of Mumbai 2014",
+        "– 2017 SKILLS",
+        "Financial Analysis",
+        "Financial Modelling",
+        "Budgeting",
+        "Forecasting",
+        "Variance Analysis",
+        "Excel",
+        "Power BI",
+        "SQL",
+        "Accounting",
+        "Reconciliation"
+    ],
+    "experience": [
+        "Financial Analyst",
+        "FinCorp Ltd, Mumbai Apr",
+        "2021 – Present",
+        "Prepared monthly financial reports.",
+        "Performed variance analysis.",
+        "Developed financial models.",
+        "Supported annual budgeting.",
+        "Prepared management dashboards.",
+        "Analyzed business performance.",
+        "Supported forecasting activities.",
+        "Accountant",
+        "Global Traders",
+        "Jun 2019 – Mar 2021",
+        "Maintained financial records.",
+        "Reconciled bank statements.",
+        "Prepared invoices.",
+        "Assisted with tax documentation.",
+        "Maintained accounting spreadsheets."
+    ],
+    "skills": [],
+    "projects": [
+        "Financial Performance Dashboard",
+        "Created a Power BI dashboard for revenue, expenses, profit and budget variance analysis."
+    ],
+    "certifications": [
+        "CFA Level I"
+    ]
+}

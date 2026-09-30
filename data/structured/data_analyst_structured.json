@@ -1,0 +1,24 @@
+{
+    "job_title": "Data Analyst",
+    "experience": {
+        "minimum_years": null,
+        "maximum_years": null
+    },
+    "education_required": [
+        "Bachelor's degree",
+        "Master's degree"
+    ],
+    "required_skills": [
+        "python",
+        "sql",
+        "power bi",
+        "excel",
+        "data analysis"
+    ],
+    "keywords": [
+        "data",
+        "analyst",
+        "business"
+    ],
+    "normalized_text": "Data Analyst\nJob Description:\nWe are looking for a Data Analyst to analyze business data and generate actionable insights.\nResponsibilities:\n- Collect, clean and validate data from multiple sources.\n- Perform data analysis and exploratory analysis.\n- Create dashboards and reports for business stakeholders.\n- Track and analyze key performance indicators (KPIs).\n- Work with SQL databases to retrieve and transform data.\n- Use Excel and Power BI for reporting and visualization.\n- Identify trends, patterns and data quality issues.\n- Communicate analytical findings to stakeholders.\nRequirements:\n- Bachelor's or Master's degree in Data Science, Statistics, Mathematics, Computer Science or a related field.\n- Basic to intermediate SQL skills.\n- Knowledge of Python for data analysis.\n- Experience with Power BI and Excel.\n- Understanding of data cleaning and data visualization.\n- Knowledge of statistics and analytical techniques.\n- Good communication and problem-solving skills."
+}

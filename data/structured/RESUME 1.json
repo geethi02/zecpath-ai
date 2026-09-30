@@ -1,0 +1,57 @@
+{
+    "name": "GEETHIKA K",
+    "location": "",
+    "email": "geethika.sample@email.com",
+    "phone": "+91-90000-00001",
+    "summary": "M.Sc Data Science & Analytics postgraduate with internship experience in data analysis, data cleaning, exploratory analysis, \nbusiness intelligence reporting and AI/ML projects. Interested in Data Analyst, BI Analyst and AI/ML roles.",
+    "education": [
+        "M.Sc — Data Science & Analytics",
+        "Jain University, Bengaluru 2024",
+        "– 2026",
+        "B.Sc — Mathematics",
+        "Kannur University, Kerala 2020",
+        "– 2023"
+    ],
+    "experience": [
+        "Data Science & ML Intern",
+        "KITES Software Pvt Ltd, Kochi Feb",
+        "2026 – Apr 2026",
+        "Collected, cleaned and validated datasets.",
+        "Performed exploratory data analysis.",
+        "Conducted statistical analysis.",
+        "Created Power BI reports.",
+        "Used Python and SQL for data processing.",
+        "Data Science Intern",
+        "MVR Ayurveda Medical Hospital, Kannur Jun",
+        "2025 – Jul 2025",
+        "Performed healthcare dataset analysis.",
+        "Used Pandas and NumPy for data processing.",
+        "Created visual reports.",
+        "Data Science Intern",
+        "Cognifyz Technologies",
+        "2025",
+        "Worked with Python, SQL and Power BI.",
+        "Performed statistical analysis.",
+        "Created analytical dashboards."
+    ],
+    "skills": [
+        "Programming: Python, SQL",
+        "BI: Power BI, DAX, Power Query, Excel",
+        "Analytics: Data Cleaning, EDA, Statistics, Data Visualization AI/ML: Machine Learning, LangChain, LLMs, OpenAI API Databases:",
+        "MySQL, PostgreSQL"
+    ],
+    "projects": [
+        "Sales Analytics Dashboard",
+        "Power BI, MySQL, DAX",
+        "Created sales KPI dashboards and analytical reports.",
+        "Autonomous Multi-Agent Research System",
+        "Python, LangChain, OpenAI API",
+        "Built an experimental multi-agent research workflow."
+    ],
+    "certifications": [
+        "Google Data Analytics",
+        "Microsoft Power BI",
+        "Probability Foundations",
+        "Data Visualization with R"
+    ]
+}

@@ -1,0 +1,26 @@
+{
+  "candidate_id": "CAND-001",
+  "job_id": "JOB-001",
+  "model_version": "ats-scorer-v1.0",
+  "timestamp": "2026-09-30T17:30:00Z",
+
+  "ats_score": {
+    "overall_score": 82,
+    "skills_match": 85,
+    "education_match": 80,
+    "experience_match": 75
+  },
+
+  "matched_skills": [
+    "Python",
+    "SQL",
+    "Power BI",
+    "Excel"
+  ],
+
+  "missing_skills": [
+    "Tableau"
+  ],
+
+  "recommendation": "Proceed to screening"
+}

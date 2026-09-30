@@ -1,0 +1,42 @@
+PRIYA NAIR
+Kochi, Kerala, India
+Email: priya.sample@email.com
+Phone: +91-90000-00003
+PROFESSIONAL SUMMARY
+UI/UX Designer with 4 years of experience designing web and mobile applications, conducting user
+research and developing prototypes.
+EXPERIENCE Senior UI/UX Designer
+DesignWorks Studio, Kochi Apr
+2022 – Present
+- Created wireframes and prototypes.
+- Conducted user research.
+- Designed mobile applications.
+- Created reusable design systems.
+- Collaborated with developers and product managers.
+- Conducted usability testing.
+- Improved application navigation.
+UI Designer
+Creative Labs, Bengaluru Jun
+2021 – Mar 2022
+- Designed website interfaces.
+- Created visual mockups.
+- Prepared design specifications.
+- Worked with product teams.
+EDUCATION Bachelor of Design — Interaction Design
+National Institute of Fashion Technology
+2017 – 2021
+SKILLS
+- Figma
+- Adobe XD
+- Photoshop
+- Wireframing
+- Prototyping
+- User Research
+- Usability Testing
+- Design Systems
+- Interaction Design
+- Accessibility
+CERTIFICATION
+Google UX Design Certificate
+PROJECT Healthcare Mobile Application Redesign
+Designed a patient appointment application and conducted usability testing with sample users.

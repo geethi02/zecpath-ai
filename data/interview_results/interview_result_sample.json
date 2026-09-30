@@ -1,0 +1,26 @@
+{
+  "candidate_id": "CAND-001",
+  "job_id": "JOB-001",
+  "model_version": "interview-ai-v1.0",
+  "timestamp": "2026-09-30T17:30:00Z",
+
+  "interview_result": {
+    "status": "completed",
+    "overall_score": 86,
+    "technical_score": 88,
+    "communication_score": 84,
+    "problem_solving_score": 85
+  },
+
+  "strengths": [
+    "Good technical understanding",
+    "Clear communication",
+    "Strong problem-solving approach"
+  ],
+
+  "areas_for_improvement": [
+    "Could provide more detailed examples"
+  ],
+
+  "recommendation": "Proceed to next stage"
+}

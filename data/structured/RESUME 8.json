@@ -1,0 +1,49 @@
+{
+    "name": "MOHAMMED FAISAL",
+    "location": "Hyderabad, Telangana, India",
+    "email": "faisal.sample@email.com",
+    "phone": "+91-90000-00008",
+    "summary": "DevOps Engineer with 4 years of experience managing cloud infrastructure, CI/CD pipelines, \ncontainerized applications and deployment automation.",
+    "education": [
+        "B.Tech — Information Technology",
+        "JNTU Hyderabad 2017",
+        "– 2021"
+    ],
+    "experience": [
+        "DevOps Engineer",
+        "CloudTech Solutions, Hyderabad Jun",
+        "2022 – Present",
+        "Built CI/CD pipelines.",
+        "Managed AWS infrastructure.",
+        "Created Docker containers.",
+        "Managed Kubernetes deployments.",
+        "Automated infrastructure using Terraform.",
+        "Monitored production systems.",
+        "Implemented logging and monitoring.",
+        "Cloud Support Engineer",
+        "InfraServe Technologies Jul",
+        "2021 – May 2022",
+        "Supported cloud environments.",
+        "Monitored application infrastructure.",
+        "Assisted deployment activities.",
+        "Troubleshot Linux servers."
+    ],
+    "skills": [
+        "AWS",
+        "Docker",
+        "Kubernetes • Jenkins",
+        "GitHub Actions",
+        "Terraform",
+        "Linux",
+        "Python",
+        "CI/CD",
+        "Monitoring",
+        "Git"
+    ],
+    "projects": [],
+    "certifications": [
+        "AWS Solutions Architect — Associate",
+        "PROJECT Automated Cloud Deployment Pipeline",
+        "Created a CI/CD workflow using GitHub Actions, Docker and AWS."
+    ]
+}
