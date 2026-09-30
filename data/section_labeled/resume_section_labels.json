@@ -1,0 +1,47 @@
+[
+  {
+    "resume_id": "RESUME-001",
+    "section": "skills",
+    "text": "Python, SQL, Power BI, Excel, Pandas, NumPy"
+  },
+  {
+    "resume_id": "RESUME-001",
+    "section": "work_experience",
+    "text": "Data Analyst at ABC Company. Analyzed business data and created dashboards."
+  },
+  {
+    "resume_id": "RESUME-001",
+    "section": "education",
+    "text": "MSc Data Science and Analytics - Sample University"
+  },
+  {
+    "resume_id": "RESUME-001",
+    "section": "certifications",
+    "text": "Python for Data Science, Power BI Data Analyst"
+  },
+  {
+    "resume_id": "RESUME-001",
+    "section": "projects",
+    "text": "Sales Analytics Dashboard using Power BI and SQL"
+  },
+  {
+    "resume_id": "RESUME-002",
+    "section": "skills",
+    "text": "Java, Python, MySQL, Git"
+  },
+  {
+    "resume_id": "RESUME-002",
+    "section": "work_experience",
+    "text": "Software Developer at XYZ Technologies"
+  },
+  {
+    "resume_id": "RESUME-002",
+    "section": "education",
+    "text": "Bachelor of Computer Applications"
+  },
+  {
+    "resume_id": "RESUME-002",
+    "section": "projects",
+    "text": "Employee Management System"
+  }
+]
