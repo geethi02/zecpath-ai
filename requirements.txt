@@ -1,5 +1,11 @@
+
 pandas
 numpy
 python-dotenv
 pydantic
 pytest
+fastapi
+uvicorn
+pypdf
+python-docx
+python-multipart
