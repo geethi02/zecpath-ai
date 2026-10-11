@@ -1,0 +1,183 @@
+{
+  "technical": {
+    "programming_languages": [
+      {
+        "canonical": "Python",
+        "synonyms": ["python", "py"]
+      },
+      {
+        "canonical": "Java",
+        "synonyms": ["java"]
+      },
+      {
+        "canonical": "JavaScript",
+        "synonyms": ["javascript", "js"]
+      },
+      {
+        "canonical": "C++",
+        "synonyms": ["c++", "cpp"]
+      },
+      {
+        "canonical": "R",
+        "synonyms": ["r", "r programming", "r language"]
+      }
+    ],
+    "databases": [
+      {
+        "canonical": "MySQL",
+        "synonyms": ["mysql", "my sql"]
+      },
+      {
+        "canonical": "PostgreSQL",
+        "synonyms": ["postgresql", "postgres"]
+      },
+      {
+        "canonical": "MongoDB",
+        "synonyms": ["mongodb", "mongo db", "mongo"]
+      }
+    ],
+    "data_tools": [
+      {
+        "canonical": "SQL",
+        "synonyms": ["sql", "structured query language"]
+      },
+      {
+        "canonical": "Power BI",
+        "synonyms": ["power bi", "powerbi", "microsoft power bi"]
+      },
+      {
+        "canonical": "Excel",
+        "synonyms": ["excel", "ms excel", "microsoft excel"]
+      },
+      {
+        "canonical": "Tableau",
+        "synonyms": ["tableau"]
+      }
+    ],
+    "data_science": [
+      {
+        "canonical": "Pandas",
+        "synonyms": ["pandas"]
+      },
+      {
+        "canonical": "NumPy",
+        "synonyms": ["numpy", "num py"]
+      },
+      {
+        "canonical": "Scikit-learn",
+        "synonyms": ["scikit-learn", "sklearn", "scikit learn"]
+      },
+      {
+        "canonical": "Matplotlib",
+        "synonyms": ["matplotlib"]
+      }
+    ],
+    "machine_learning": [
+      {
+        "canonical": "Machine Learning",
+        "synonyms": ["machine learning", "ml"]
+      },
+      {
+        "canonical": "Deep Learning",
+        "synonyms": ["deep learning", "dl"]
+      },
+      {
+        "canonical": "Natural Language Processing",
+        "synonyms": ["natural language processing", "nlp"]
+      },
+      {
+        "canonical": "Generative AI",
+        "synonyms": ["generative ai", "gen ai", "genai"]
+      }
+    ],
+    "frameworks": [
+      {
+        "canonical": "React",
+        "synonyms": ["react", "reactjs", "react.js"]
+      },
+      {
+        "canonical": "Node.js",
+        "synonyms": ["node", "nodejs", "node.js"]
+      },
+      {
+        "canonical": "Angular",
+        "synonyms": ["angular", "angularjs"]
+      }
+    ],
+    "cloud": [
+      {
+        "canonical": "Amazon Web Services",
+        "synonyms": ["aws", "amazon web services"]
+      },
+      {
+        "canonical": "Microsoft Azure",
+        "synonyms": ["azure", "microsoft azure"]
+      },
+      {
+        "canonical": "Google Cloud Platform",
+        "synonyms": ["gcp", "google cloud", "google cloud platform"]
+      }
+    ]
+  },
+
+  "business": [
+    {
+      "canonical": "Data Analysis",
+      "synonyms": ["data analysis", "data analytics"]
+    },
+    {
+      "canonical": "Business Analysis",
+      "synonyms": ["business analysis", "business analytics"]
+    },
+    {
+      "canonical": "Project Management",
+      "synonyms": ["project management", "project coordination"]
+    },
+    {
+      "canonical": "Communication",
+      "synonyms": ["communication", "verbal communication", "written communication"]
+    },
+    {
+      "canonical": "Problem Solving",
+      "synonyms": ["problem solving", "problem-solving"]
+    },
+    {
+      "canonical": "Teamwork",
+      "synonyms": ["teamwork", "team collaboration", "collaboration"]
+    }
+  ],
+
+  "creative": [
+    {
+      "canonical": "Content Writing",
+      "synonyms": ["content writing", "content creation"]
+    },
+    {
+      "canonical": "Graphic Design",
+      "synonyms": ["graphic design", "visual design"]
+    },
+    {
+      "canonical": "Video Editing",
+      "synonyms": ["video editing", "video production"]
+    },
+    {
+      "canonical": "UI Design",
+      "synonyms": ["ui design", "user interface design"]
+    }
+  ],
+
+  "skill_stacks": {
+    "MERN": [
+      "MongoDB",
+      "Express.js",
+      "React",
+      "Node.js"
+    ],
+    "MEAN": [
+      "MongoDB",
+      "Express.js",
+      "Angular",
+      "Node.js"
+    ]
+  }
+}
